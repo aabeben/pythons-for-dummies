@@ -1,3 +1,5 @@
 #!/bin/env python
-username="Alan"
-print(f"Hello, {username}")
+unit_price=49.99
+quantity=30
+
+print(f"subtotal: ${unit_price*quantity}")
