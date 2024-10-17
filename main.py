@@ -1,2 +1,3 @@
 #!/bin/env python
-print("Python for dummies")
+username="Alan"
+print(f"Hello, {username}")
