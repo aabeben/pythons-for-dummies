@@ -1,5 +1,4 @@
 #!/bin/env python
-unit_price=49.99
-quantity=30
 
-print(f"subtotal: ${unit_price*quantity:,}")
+sales_tax_rate=0.065 # 65%
+print(f"Sales tax rate: {sales_tax_rate:.2%}")
